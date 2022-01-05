@@ -1,0 +1,1 @@
+Make sure there is Train.csv in this folder along with an empty folder called splitdata
