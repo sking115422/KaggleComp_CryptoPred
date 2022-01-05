@@ -2,3 +2,7 @@
 .ipynb_checkpoints
 asset_details.csv
 train.csv
+raw_asset_data
+charts
+metrics
+submission
